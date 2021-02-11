@@ -1,6 +1,5 @@
 <script lang="ts">
   // styleは常にscopedとして扱われる
-  // svelteはファイル名まで書かなければダメっぽい
 	import Tailwindcss from './Tailwindcss.svelte';
   import Header from './components/Header.svelte';
   import Router from 'svelte-spa-router';
